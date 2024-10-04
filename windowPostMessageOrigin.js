@@ -1,4 +1,4 @@
-const WINDOW_URL = "https://www.google.com"
+const WINDOW_URL = "https://incandescent-frangollo-63d854.netlify.app/"
 
 function openSecondChannel() {
   window.open(WINDOW_URL);
